@@ -1,6 +1,6 @@
 # Projeto Backend com Node.js e Express
 
-Este projeto backend foi desenvolvido com **Node.js**, **Express** e **Sequelize**, e oferece uma API RESTful com autenticação via JWT, conexão com MySQL, e documentação via Swagger.
+Este projeto backend foi desenvolvido com **Node.js**, **Express** e **Sequelize**, e oferece uma API RESTful de um CRUD de usuários, produtos e categorias com autenticação via JWT, conexão com MySQL, e documentação via Swagger.
 
 > Criado por: **Ingrid Maria** 
 
